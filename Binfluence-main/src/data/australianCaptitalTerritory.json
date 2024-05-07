@@ -1,0 +1,1617 @@
+{
+  "name": "Australian Captital Territory",
+  "regions": [
+    {
+      "region": "Acton",
+      "postCodes": "2601"
+    },
+    {
+      "region": "Ainslie",
+      "postCodes": "2602"
+    },
+    {
+      "region": "Amaroo",
+      "postCodes": "2914"
+    },
+    {
+      "region": "Aranda",
+      "postCodes": "2614"
+    },
+    {
+      "region": "Banks",
+      "postCodes": "2906"
+    },
+    {
+      "region": "Barton",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Beard",
+      "postCodes": "2620"
+    },
+    {
+      "region": "Belconnen",
+      "postCodes": "2617"
+    },
+    {
+      "region": "Belconnen Dc",
+      "postCodes": "2617"
+    },
+    {
+      "region": "Black Mountain",
+      "postCodes": "2601"
+    },
+    {
+      "region": "Bonner",
+      "postCodes": "2914"
+    },
+    {
+      "region": "Bonython",
+      "postCodes": "2905"
+    },
+    {
+      "region": "Braddon",
+      "postCodes": "2612"
+    },
+    {
+      "region": "Bruce",
+      "postCodes": "2617"
+    },
+    {
+      "region": "Calwell",
+      "postCodes": "2905"
+    },
+    {
+      "region": "Campbell",
+      "postCodes": "2612"
+    },
+    {
+      "region": "Canberra",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Canberra Airport",
+      "postCodes": "2609"
+    },
+    {
+      "region": "Canberra City",
+      "postCodes": "2601"
+    },
+    {
+      "region": "Canberra International Airport",
+      "postCodes": "2609"
+    },
+    {
+      "region": "Capital Hill",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Casey",
+      "postCodes": "2913"
+    },
+    {
+      "region": "Causeway",
+      "postCodes": "2604"
+    },
+    {
+      "region": "Chapman",
+      "postCodes": "2611"
+    },
+    {
+      "region": "Charnwood",
+      "postCodes": "2615"
+    },
+    {
+      "region": "Chifley",
+      "postCodes": "2606"
+    },
+    {
+      "region": "Chisholm",
+      "postCodes": "2905"
+    },
+    {
+      "region": "Conder",
+      "postCodes": "2906"
+    },
+    {
+      "region": "Cook",
+      "postCodes": "2614"
+    },
+    {
+      "region": "Crace",
+      "postCodes": "2911"
+    },
+    {
+      "region": "Curtin",
+      "postCodes": "2605"
+    },
+    {
+      "region": "Deakin",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Deakin West",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Dickson",
+      "postCodes": "2602"
+    },
+    {
+      "region": "Downer",
+      "postCodes": "2602"
+    },
+    {
+      "region": "Duffy",
+      "postCodes": "2611"
+    },
+    {
+      "region": "Dunlop",
+      "postCodes": "2615"
+    },
+    {
+      "region": "Duntroon",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Erindale Centre",
+      "postCodes": "2903"
+    },
+    {
+      "region": "Evatt",
+      "postCodes": "2617"
+    },
+    {
+      "region": "Fadden",
+      "postCodes": "2904"
+    },
+    {
+      "region": "Fairbairn Raaf",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Farrer",
+      "postCodes": "2607"
+    },
+    {
+      "region": "Fisher",
+      "postCodes": "2611"
+    },
+    {
+      "region": "Florey",
+      "postCodes": "2615"
+    },
+    {
+      "region": "Flynn",
+      "postCodes": "2615"
+    },
+    {
+      "region": "Forde",
+      "postCodes": "2914"
+    },
+    {
+      "region": "Forrest",
+      "postCodes": "2603"
+    },
+    {
+      "region": "Franklin",
+      "postCodes": "2913"
+    },
+    {
+      "region": "Fraser",
+      "postCodes": "2615"
+    },
+    {
+      "region": "Fyshwick",
+      "postCodes": "2609"
+    },
+    {
+      "region": "Garran",
+      "postCodes": "2605"
+    },
+    {
+      "region": "Gilmore",
+      "postCodes": "2905"
+    },
+    {
+      "region": "Ginninderra Village",
+      "postCodes": "2913"
+    },
+    {
+      "region": "Giralang",
+      "postCodes": "2617"
+    },
+    {
+      "region": "Gordon",
+      "postCodes": "2906"
+    },
+    {
+      "region": "Gowrie",
+      "postCodes": "2904"
+    },
+    {
+      "region": "Greenway",
+      "postCodes": "2900"
+    },
+    {
+      "region": "Griffith",
+      "postCodes": "2603"
+    },
+    {
+      "region": "Gungahlin",
+      "postCodes": "2912"
+    },
+    {
+      "region": "Hackett",
+      "postCodes": "2602"
+    },
+    {
+      "region": "Hall",
+      "postCodes": "2618"
+    },
+    {
+      "region": "Harman",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Harrison",
+      "postCodes": "2914"
+    },
+    {
+      "region": "Hawker",
+      "postCodes": "2614"
+    },
+    {
+      "region": "Higgins",
+      "postCodes": "2615"
+    },
+    {
+      "region": "Hmas Harman",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Holder",
+      "postCodes": "2611"
+    },
+    {
+      "region": "Holt",
+      "postCodes": "2615"
+    },
+    {
+      "region": "Hughes",
+      "postCodes": "2605"
+    },
+    {
+      "region": "Hume",
+      "postCodes": "2620"
+    },
+    {
+      "region": "Isaacs",
+      "postCodes": "2607"
+    },
+    {
+      "region": "Isabella Plains",
+      "postCodes": "2905"
+    },
+    {
+      "region": "Jamison Centre",
+      "postCodes": "2614"
+    },
+    {
+      "region": "Kaleen",
+      "postCodes": "2617"
+    },
+    {
+      "region": "Kambah",
+      "postCodes": "2902"
+    },
+    {
+      "region": "Kambah Village",
+      "postCodes": "2902"
+    },
+    {
+      "region": "Kingston",
+      "postCodes": "2604"
+    },
+    {
+      "region": "Kinlyside",
+      "postCodes": "2913"
+    },
+    {
+      "region": "Kippax",
+      "postCodes": "2615"
+    },
+    {
+      "region": "Kowen Forest",
+      "postCodes": "2620"
+    },
+    {
+      "region": "Latham",
+      "postCodes": "2615"
+    },
+    {
+      "region": "Lawson",
+      "postCodes": "2617"
+    },
+    {
+      "region": "Lyneham",
+      "postCodes": "2602"
+    },
+    {
+      "region": "Lyons",
+      "postCodes": "2606"
+    },
+    {
+      "region": "Macarthur",
+      "postCodes": "2904"
+    },
+    {
+      "region": "Macgregor",
+      "postCodes": "2615"
+    },
+    {
+      "region": "Macquarie",
+      "postCodes": "2614"
+    },
+    {
+      "region": "Majura",
+      "postCodes": "2609"
+    },
+    {
+      "region": "Manuka",
+      "postCodes": "2603"
+    },
+    {
+      "region": "Mawson",
+      "postCodes": "2607"
+    },
+    {
+      "region": "Mckellar",
+      "postCodes": "2617"
+    },
+    {
+      "region": "Melba",
+      "postCodes": "2615"
+    },
+    {
+      "region": "Mitchell",
+      "postCodes": "2911"
+    },
+    {
+      "region": "Monash",
+      "postCodes": "2904"
+    },
+    {
+      "region": "Moncrieff",
+      "postCodes": "2914"
+    },
+    {
+      "region": "Mount Stromlo",
+      "postCodes": "2611"
+    },
+    {
+      "region": "Narrabundah",
+      "postCodes": "2604"
+    },
+    {
+      "region": "Ngunnawal",
+      "postCodes": "2913"
+    },
+    {
+      "region": "Nicholls",
+      "postCodes": "2913"
+    },
+    {
+      "region": "Oaks Estate",
+      "postCodes": "2620"
+    },
+    {
+      "region": "O'Connor",
+      "postCodes": "2602"
+    },
+    {
+      "region": "O'Malley",
+      "postCodes": "2606"
+    },
+    {
+      "region": "Oxley",
+      "postCodes": "2903"
+    },
+    {
+      "region": "Page",
+      "postCodes": "2614"
+    },
+    {
+      "region": "Palmerston",
+      "postCodes": "2913"
+    },
+    {
+      "region": "Parkes",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Parliament House",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Pearce",
+      "postCodes": "2607"
+    },
+    {
+      "region": "Phillip",
+      "postCodes": "2606"
+    },
+    {
+      "region": "Pialligo",
+      "postCodes": "2609"
+    },
+    {
+      "region": "Pierces Creek",
+      "postCodes": "2611"
+    },
+    {
+      "region": "Red Hill",
+      "postCodes": "2603"
+    },
+    {
+      "region": "Reid",
+      "postCodes": "2612"
+    },
+    {
+      "region": "Richardson",
+      "postCodes": "2905"
+    },
+    {
+      "region": "Rivett",
+      "postCodes": "2611"
+    },
+    {
+      "region": "Russell",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Russell Hill",
+      "postCodes": "2600"
+    },
+    {
+      "region": "Scullin",
+      "postCodes": "2614"
+    },
+    {
+      "region": "Spence",
+      "postCodes": "2615"
+    },
+    {
+      "region": "Stirling",
+      "postCodes": "2611"
+    },
+    {
+      "region": "Swinger Hill",
+      "postCodes": "2606"
+    },
+    {
+      "region": "Symonston",
+      "postCodes": "2609"
+    },
+    {
+      "region": "Taylor",
+      "postCodes": "2913"
+    },
+    {
+      "region": "Tharwa",
+      "postCodes": "2620"
+    },
+    {
+      "region": "Theodore",
+      "postCodes": "2905"
+    },
+    {
+      "region": "Top Naas",
+      "postCodes": "2620"
+    },
+    {
+      "region": "Torrens",
+      "postCodes": "2607"
+    },
+    {
+      "region": "Tuggeranong",
+      "postCodes": "2900"
+    },
+    {
+      "region": "Turner",
+      "postCodes": "2612"
+    },
+    {
+      "region": "University Of Canberra",
+      "postCodes": "2617"
+    },
+    {
+      "region": "Uriarra Forest",
+      "postCodes": "2611"
+    },
+    {
+      "region": "Wanniassa",
+      "postCodes": "2903"
+    },
+    {
+      "region": "Waramanga",
+      "postCodes": "2611"
+    },
+    {
+      "region": "Watson",
+      "postCodes": "2602"
+    },
+    {
+      "region": "Weetangera",
+      "postCodes": "2614"
+    },
+    {
+      "region": "Weston",
+      "postCodes": "2611"
+    },
+    {
+      "region": "Weston Creek",
+      "postCodes": "2611"
+    },
+    {
+      "region": "Woden",
+      "postCodes": "2606"
+    },
+    {
+      "region": "Yarralumla",
+      "postCodes": "2600"
+    }
+  ],
+  "bins": [
+    {
+      "type": "General-Waste-Bin",
+      "image": "/images/bins/rubbish.png",
+      "lid": ["red"],
+      "canGoIn": [
+        "Broken items",
+        "animal waste",
+        "soft plastics",
+        "sanitary items",
+        "Polystyrene"
+      ],
+      "canNotGoIn": [
+        "hazardous materials",
+        "(like batteries or chemicals)",
+        "times-circle e-waste",
+        "times-circle building waste",
+        "times-circle garden waste",
+        "times-circle hot ash"
+      ]
+    },
+    {
+      "type": "Recycling-Bin",
+      "image": "/images/bins/recycling.png",
+      "lid": ["yellow"],
+      "canGoIn": [
+        "aluminium and steel cans",
+        "glass bottles and jars",
+        "paper and flat cardboard",
+        "plastic bottles and containers"
+      ],
+      "canNotGoIn": [
+        "no soft plastics",
+        "recycling in plastic bags",
+        "soft plastics such as chip packets",
+        "and cling wrap",
+        "broken ceramic or glass kitchenware",
+        "clothing and bulky items"
+      ]
+    },
+    {
+      "type": "Green-Waste-Bin",
+      "image": "/images/bins/green.png",
+      "lid": ["green"],
+      "canGoIn": [
+        "Flowers and leaves",
+        "Small branches",
+        "Prunings",
+        "grass clippings and weeds"
+      ],
+      "canNotGoIn": [
+        "food waste",
+        "garbage",
+        "compostable and plastic bags",
+        "animal waste",
+        "logs, stumps or treated timber",
+        "soil",
+        "fruit on branches"
+      ]
+    },
+    {
+      "type": "Food-Waste-Bin",
+      "image": "/images/bins/fogo.png",
+      "lid": ["green"],
+      "canGoIn": [
+        "Leftovers and cooked food",
+        "Yoghurt, cheese, eggs",
+        "vegetables scraps",
+        "fruit scraps *stickers removed)",
+        "Meat/fishscraps and bones (no oyster shells)",
+        "bread, grains, cereals",
+        "coffee grounds and tea leaves",
+        "dairy products",
+        "take away food (no containers)",
+        "certified  compostible items",
+        "grass clippings",
+        "pruning, cuttings, trimmings",
+        "twigs and sticks",
+        "palm fronds",
+        "weeds"
+      ],
+      "canNotGoIn": [
+        "oyster shells",
+        "tea bags",
+        "animal droppings",
+        "kitty litter and animal bedding",
+        "hair",
+        "paper",
+        "tissues, paper towels",
+        "biodegradable bags",
+        "plastuc bags",
+        "plastuc products",
+        "sanitary products",
+        "vacuum dust",
+        "treated and painted timber",
+        "building products",
+        "metals",
+        "glass",
+        "textile and old clothing"
+      ]
+    }
+  ],
+  "prodcuts": [
+    {
+      "name": "Aluminium cans",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Aluminium cans",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "B-cycle (via supermarkets (Coles, Woolworths, Aldi, IGA), Officeworks stores, Battery World stores and Bunnings Warehouse stores)",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://bcycle.com.au/how-you-can-b-cycle/"
+    },
+    {
+      "name": "Batteries (household)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mugga Lane Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mugga Lane, Symonston",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/RMC"
+    },
+    {
+      "name": "Batteries (household)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mitchell Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Flemington Road, Mitchell",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/RMC"
+    },
+    {
+      "name": "Batteries (household, damaged)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mugga Lane Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mugga Lane, Symonston",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/RMC"
+    },
+    {
+      "name": "Batteries (household, damaged)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mitchell Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Flemington Road, Mitchell",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/RMC"
+    },
+    {
+      "name": "Bottles (glass and plastic) ",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Cardboard boxes & rolls",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Cardboard boxes & rolls",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mitchell Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Flemington Road, Mitchell",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/RMC"
+    },
+    {
+      "name": "Cardboard boxes & rolls",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mugga Lane Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mugga Lane, Symonston",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/RMC"
+    },
+    {
+      "name": "Cardboard boxes & rolls",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "Jolly Street, Belconnen",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "Cardboard boxes & rolls",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "3 O'Brien Place, Gungahlin",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "Cardboard boxes & rolls",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "22-26 Baillieu Circuit, Mitchell",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "Cardboard boxes & rolls",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "38 Botany Street, Phillip",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "Cardboard boxes & rolls",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "Scollay Street, Tuggeranong",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "Chemicals (Household quantities (20 litres))",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mitchell Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Flemington Road, Mitchell",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/RMC"
+    },
+    {
+      "name": "Chemicals (Household quantities (20 litres))",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mugga Lane Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mugga Lane, Symonston",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/RMC"
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Give to a friend or sell online",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Ys Buys Donations Depot",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Salvation Army",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Another Chance Op Shop",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "St Vincent de Paul Society",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Communities at Work Clothing Program",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.commsatwork.org/get-involved/donate-clothes/"
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Roundabout Canberra",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://roundaboutcanberra.org/donate-goods/"
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "ACT Buy Nothing",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://buynothingproject.org/find-a-group#rec479366860"
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "GIVIT",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.givit.org.au/"
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Koomarri Cut Cloth ",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "The Green Shed via Mitchell Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Flemington Road, Mitchell",
+      "Notes/Link": "https://thegreenshed.net.au/"
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "The Green Shed via Mugga Lane Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mugga Lane, Symonston",
+      "Notes/Link": "https://thegreenshed.net.au/"
+    },
+    {
+      "name": "Clothing/shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Upparel ",
+      "Collection/dropOff": "Drop off",
+      "Location": "https://upparel.com.au/",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Coffee paper cups (lids off)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Coffee cup lids",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Bio coffee cups (compostable or biodegradable",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Home composting",
+      "Collection/dropOff": "",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Coffee paper cups and lids  ",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Cup Rescue via selected 7-Eleven ",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.7eleven.com.au/get-to-know-us/cup-rescue.html"
+    },
+    {
+      "name": "Disposable nappies",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Food scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Food scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Home compost bin or worm farm",
+      "Collection/dropOff": "",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Food scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Bokashi bin",
+      "Collection/dropOff": "",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Food scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Capital Scraps Compost",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.compost.org.au/"
+    },
+    {
+      "name": "Food scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "ShareWaste",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://sharewaste.com/"
+    },
+    {
+      "name": "Food scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "OzHarvest Canberra Food Rescue",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.ozharvest.org/"
+    },
+    {
+      "name": "Food scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "For larger volumes of food scraps contact: Global Worming Ph: 0408 496 767 or globalworming@mail.com",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Food scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "For larger volumes of food scraps contact: Goterra",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://goterra.au/"
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Home composting",
+      "Collection/dropOff": "",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your green waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mugga Lane Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mugga Lane, Symonston",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/RMC"
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Canberra Sand and Gravel",
+      "Collection/dropOff": "Drop off",
+      "Location": "Parkwood Road (Belconnen).",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Canberra Sand and Gravel",
+      "Collection/dropOff": "Drop off",
+      "Location": "Vicars Street (Mitchell).",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Trash pak or garden waste skip bin service: Cut Price Trash Paks ACT",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": "https://www.cutpricegroup.com.au/Trash_Pak_Specials.html"
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Trash pak or garden waste skip bin service: Tom’s Trash Paks",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": "https://www.tomstrashpaks.com.au/"
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Trash pak or garden waste skip bin service: Brindabella Waste",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": "https://brindabellawaste.com.au/"
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Trash pak or garden waste skip bin service: Economy Waste",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": "https://www.economywastedisposal.com.au/"
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Trash pak or garden waste skip bin service: Waste Away",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": "http://www.wasteaway.com.au/about_us.html"
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Trash pak or garden waste skip bin service: O’Sullivans Waste",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": "http://www.osullivanswaste.com.au/"
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Trash pak or garden waste skip bin service: Paragalli Haulage",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": "https://www.paragallihaulage.com.au/"
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Trash pak or garden waste skip bin service: ACT Rubbish Removals",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": "https://actrubbish.com.au/"
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "Dark green",
+      "colorCodeMeaning": "FOGO bin",
+      "Can I recycle this": "Put in your FOGO bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": "Residents in Belconnen, Bruce, Cook and Macquarie only"
+    },
+    {
+      "name": "Glass jars & bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Glass jars & bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Reuse at home or give to someone who makes jams and pickles etc",
+      "Collection/dropOff": "",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Glass jars & bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Find a local school or group who wants the jars for storage and craft activities",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Glass jars & bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "The Green Shed via Mitchell Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Flemington Road, Mitchell",
+      "Notes/Link": "https://thegreenshed.net.au/"
+    },
+    {
+      "name": "Glass jars & bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "The Green Shed via Mugga Lane Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mugga Lane, Symonston",
+      "Notes/Link": "https://thegreenshed.net.au/"
+    },
+    {
+      "name": "Glass jars & bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "Jolly Street, Belconnen",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "Glass jars & bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "3 O'Brien Place, Gungahlin",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "Glass jars & bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "22-26 Baillieu Circuit, Mitchell",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "Glass jars & bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "38 Botany Street, Phillip",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "Glass jars & bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "Scollay Street, Tuggeranong",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "Glass jars & bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": " ACT Container Deposit Scheme (ACT CDS)",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://actcds.org.au/"
+    },
+    {
+      "name": "Glass jars & bottles (broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Lids (larger than a credit card)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Lids (smaller than a credit card)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Lids Iplastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Lids4Kids - ACT Region",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.facebook.com/groups/lids4kidsact"
+    },
+    {
+      "name": "Lids",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "metak lids (smaller than a credit card)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "ACT Recycling, Symonston",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mugga Lane, Symonston",
+      "Notes/Link": "https://actrecycling.com.au/"
+    },
+    {
+      "name": "metak lids (smaller than a credit card)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Sims Metal Management Hume",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.simsmm.com.au/"
+    },
+    {
+      "name": "metak lids (smaller than a credit card)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Access Recycling Fyshwick",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://accessrecycling.com.au/"
+    },
+    {
+      "name": "metak lids (smaller than a credit card)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Metal Mart Fyshwick",
+      "Collection/dropOff": "Drop off",
+      "Location": "53 Collie Street, Fyshwick ACT",
+      "Notes/Link": "https://metalmart.com.au/"
+    },
+    {
+      "name": "milk bottles (glass, liquid paper board (cartons) or rigid plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": "Place empty and dry bottles (lids off) in your recycling bin"
+    },
+    {
+      "name": "Lids go in the rubbish bin"
+    },
+    {
+      "name": "mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Give to a friend, donate to charity or sell online",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "GIVIT",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.givit.org.au/"
+    },
+    {
+      "name": "mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Return phone and accessories to your local mobile phone retailer for recycling",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "The Green Shed via Mitchell Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Flemington Road, Mitchell",
+      "Notes/Link": "https://thegreenshed.net.au/"
+    },
+    {
+      "name": "mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "The Green Shed via Mugga Lane Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mugga Lane, Symonston",
+      "Notes/Link": "https://thegreenshed.net.au/"
+    },
+    {
+      "name": "mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mobile Muster",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.mobilemuster.com.au/"
+    },
+    {
+      "name": "mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Pick up a free MobileMuster satchel from your nearest AusPost outlet",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Steel tins & cans",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Syringes (single sharps)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": " Transport Canberra and City Services provide containers in all public toilets in urban open spaces",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Syringes (bulk disposal)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "City Health Centres, Needle and Syringe Program",
+      "Collection/dropOff": "Drop off",
+      "Location": ". Corner Alinga and Moore Streets, Canberra City ",
+      "Notes/Link": "https://directionshealth.com/needle-syringe-program/"
+    },
+    {
+      "name": "Syringes (bulk disposal)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Phillip Health Centre - Directions, Needle and Syringe Program",
+      "Collection/dropOff": "Drop off",
+      "Location": "Corner Keltie and Corinna Streets, Woden",
+      "Notes/Link": "https://directionshealth.com/needle-syringe-program/"
+    },
+    {
+      "name": "Syringes (bulk disposal)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mitchell Recycling Drop Off Centre ",
+      "Collection/dropOff": "Drop off",
+      "Location": "Baillieu Court, Mitchell",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Syringes (bulk disposal)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mugga Lane Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mugga Lane, Symonston",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/RMC"
+    },
+    {
+      "name": "Syringes (bulk disposal)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Mitchell Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Flemington Road, Mitchell",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/RMC"
+    },
+    {
+      "name": "Syringes (bulk disposal)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "Jolly Street, Belconnen",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "Syringes (bulk disposal)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "38 Botany Street, Phillip",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "Syringes (bulk disposal)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Recycling drop off centres",
+      "Collection/dropOff": "Drop off",
+      "Location": "Scollay Street, Tuggeranong",
+      "Notes/Link": "https://www.cityservices.act.gov.au/recycling-and-waste/drop-off/centres"
+    },
+    {
+      "name": "White goods (working)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "The Green Shed via Mitchell Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Flemington Road, Mitchell",
+      "Notes/Link": "https://thegreenshed.net.au/"
+    },
+    {
+      "name": "White goods (working)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "The Green Shed via Mugga Lane Resource Management Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mugga Lane, Symonston",
+      "Notes/Link": "https://thegreenshed.net.au/"
+    },
+    {
+      "name": "White goods (working)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "A fridge buyback program through ActewAGL",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.actewagl.com.au/support-and-advice/save-energy/appliance-upgrade-offers/fridge-buyback"
+    },
+    {
+      "name": "White goods (working)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "    Fyshwick Appliances",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "White goods (working)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "    GRI Pty Ltd",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.truelocal.com.au/business/gri-pty-ltd/oaks-estate"
+    },
+    {
+      "name": "White goods (working)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "    Renewed Appliances ",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.renewedappliances.com.au/"
+    },
+    {
+      "name": "White goods (working)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "ACT Recycling, Symonston",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mugga Lane, Symonston",
+      "Notes/Link": "https://actrecycling.com.au/"
+    },
+    {
+      "name": "White goods (working)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "Sims Metal Management Hume",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.simsmm.com.au/"
+    },
+    {
+      "name": "White goods (working)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this": "GTR e-cycle innovation",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.greentechnologyrecycling.com.au/"
+    }
+  ]
+}

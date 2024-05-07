@@ -1,0 +1,2279 @@
+{
+  "name": "City of Port Phillip",
+  "regions": [
+    {
+      "region": "Port Melbourne",
+      "postCodes": "3207"
+    },
+    {
+      "region": "South Melbourne",
+      "postCodes": "3205"
+    },
+    {
+      "region": "Albert Park",
+      "postCodes": "3206"
+    },
+    {
+      "region": "Middle Park",
+      "postCodes": "3206"
+    },
+    {
+      "region": "St Kilda West",
+      "postCodes": "3182"
+    },
+    {
+      "region": "Elwood",
+      "postCodes": "3184"
+    },
+    {
+      "region": "Balaclava",
+      "postCodes": "3183"
+    },
+    {
+      "region": "Ripponlea",
+      "postCodes": "3185"
+    }
+  ],
+  "bins": [
+    {
+      "type": "General-Waste-Bin",
+      "image": "/images/bins/rubbish.png",
+      "lid": ["red", "dark green"],
+      "canGoIn": [
+        "takeaway coffee cups (as their plastic coating can't be removed)",
+        "baking paper",
+        "take away cartons as they contain a wax coating or are styrofoam",
+        "used paper towels, tissues, napkins and serviettes (as they usually have residue)",
+        "long-life cartons - as their plastic coating cannot be removed. For example, juice cartons, milk cartons, UHT, stock cartons, aseptic packaging",
+        "waxed or laminated cardboard boxes",
+        "shredded paper (as it is light and flies up into the air at the recycling facility clogging sorting machines and creating a safety issue for staff)."
+      ],
+      "canNotGoIn": [
+        "Do not put anything into the general waste bin that can be recycled or put into the green waste bin, e.g. ",
+        "Food organics",
+        "Garden Organics",
+        "bottles",
+        "cans",
+        "paper"
+      ]
+    },
+    {
+      "type": "Recycling-Bin",
+      "image": "/images/bins/recycling.png",
+      "lid": ["yellow"],
+      "canGoIn": [
+        "books",
+        "butchers paper",
+        "cardboard",
+        "cardboard boxes (flattened)",
+        "egg cartons",
+        "envelopes (with and without windows)",
+        "greeting cards",
+        "junk mail",
+        "magazines",
+        "newspapers",
+        "paper",
+        "paper bags",
+        "paper plates and bowls",
+        "paper towel rolls",
+        "phonebooks",
+        "pizza boxes (with no scraps)",
+        "toilet paper rolls",
+        "wrapping paper (without foil or glitter).",
+        "cans and can lids (including pet food)",
+        "cooking oil tins (should be empty)",
+        "foil (no scraps, scrunched)",
+        "drink cans",
+        "jar lids",
+        "empty aerosol cans.",
+        "bottles and jars",
+        "cleaning product and detergent bottles (should be empty)",
+        "ice-cream containers (plastic) and lids",
+        "juice bottles (remove lid)",
+        "milk bottles (remove lid)",
+        "punnets",
+        "shampoo, conditioner, shower gel bottles",
+        "soft drink bottles (remove lid)",
+        "takeaway containers."
+      ],
+      "canNotGoIn": [
+        "takeaway coffee cups (as their plastic coating can't be removed)",
+        "baking paper",
+        "take away cartons as they contain a wax coating or are styrofoam",
+        "used paper towels, tissues, napkins and serviettes (as they usually have residue)",
+        "long-life cartons - as their plastic coating cannot be removed. For example, juice cartons, milk cartons, UHT, stock cartons, aseptic packaging",
+        "waxed or laminated cardboard boxes",
+        "shredded paper (as it is light and flies up into the air at the recycling facility clogging sorting machines and creating a safety issue for staff).",
+        "clothes hangers",
+        "cutlery (plastic)",
+        "pots and pans.",
+        "window and mirror glass ",
+        "light bulbs."
+      ]
+    },
+    {
+      "type": "Green-Waste-Bin",
+      "image": "/images/bins/green.png",
+      "lid": ["green"],
+      "canGoIn": [
+        "fruit and vegetable scraps including citrus and onion ",
+        "meat and seafood",
+        "uncooked bones",
+        "baked goods including bread, pastries ",
+        "grains and cereal",
+        "mouldy and expired products ",
+        "loose tea leaves and coffee grounds.",
+        "grass clippings and weeds (free of soil)",
+        "garden prunings",
+        "leaves",
+        "lime green compostable caddy liners (AS 4736 and AS 5810)",
+        "small amounts of tissues, paper towel and shredded paper."
+      ],
+      "canNotGoIn": [
+        "tea bags ",
+        "coffee pods ",
+        "pet waste and cat litter",
+        "compostable food packaging",
+        "liquids including cooking oil",
+        "soft plastics and plastic bags",
+        "soil ",
+        "rocks and pebbles",
+        "plant pots",
+        "cooked bones and shellfish shells ",
+        "rubber bands and string",
+        "bamboo cutlery",
+        "nappies."
+      ]
+    }
+  ],
+  "prodcuts": [
+    {
+      "name": "Aerosol cans (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Aluminium foil",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Animal droppings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Animal Faeces",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Asbestos",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Contact commercial suppliers",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "https://www.asbestossafety.gov.au/who-contact/search-disposal-facilities"
+    },
+    {
+      "name": "Bag ties",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Baked Goods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Baking paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Band aids",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Baskets",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Baskets",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Op shops",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Batteries",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Beer bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Branches",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Branches (if it doesn't fit in the green waste bin)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Breads,cakes and pastries",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Bricks and rubble",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Landfill",
+      "collection/dropOff": "Drop off",
+      "location": "Brooklyn Transfer Station (Cleanaway), Old Geelong Road, Brooklyn,"
+    },
+    {
+      "name": "City of Wyndham Municipal Tip, West's Rd, Werribee,"
+    },
+    {
+      "name": "Clayton South Resource Recovery Centre (Cleanaway), Deals Rd & Fraser Rd, Clayton South, VIC, 3169\"",
+      "colorCode": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Building materials",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Landfill",
+      "collection/dropOff": "Drop off",
+      "location": "Brooklyn Transfer Station (Cleanaway), Old Geelong Road, Brooklyn,"
+    },
+    {
+      "name": "City of Wyndham Municipal Tip, West's Rd, Werribee,"
+    },
+    {
+      "name": "Clayton South Resource Recovery Centre (Cleanaway), Deals Rd & Fraser Rd, Clayton South, VIC, 3169\"",
+      "colorCode": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Butter foils",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cake trays (plastic code 1-5)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cans",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Car batteries",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Car parts (small)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Cardboard and paper (dry & no food items)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cardboard and paper (dry & no food items)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Cardboard/paper – laminated",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cardboard/paper – waxed",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Carpet and underlay",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Cartridges (printer/toner)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Cassettes/VHS tapes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cereal boxes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cereals and grains",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Chemicals",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Visit Sustainability Victoria's Detox your home initiative"
+    },
+    {
+      "name": "Cigarette butts",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cleaning rags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cling wrap",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Clothing and textiles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Clothing and textiles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Op shops",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Coat hangers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Coat hangers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Op shops",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Coffee Cups",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "plastic lids go in the recycling bin with yellow lid",
+      "notes/link": ""
+    },
+    {
+      "name": "Coffee grounds",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Coffee pods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Concrete",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Landfill",
+      "collection/dropOff": "Drop off",
+      "location": "Brooklyn Transfer Station (Cleanaway), Old Geelong Road, Brooklyn,"
+    },
+    {
+      "name": "City of Wyndham Municipal Tip, West's Rd, Werribee,"
+    },
+    {
+      "name": "Clayton South Resource Recovery Centre (Cleanaway), Deals Rd & Fraser Rd, Clayton South, VIC, 3169\"",
+      "colorCode": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Cooked bones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cooking Oils and fats(absorbed in paper towel or newspaper)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Corks",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cotton wool buds",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Crockery (broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Crockery (not broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Op shops",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cucumbers in plastic wrap",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "dispose of cucumber in the green waste bin",
+      "notes/link": ""
+    },
+    {
+      "name": "Curtains",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Op shops",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cutlery (metal)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Cutlery (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Dairy foods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Dead animals",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Detergent bottles (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Dog toys",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Doors",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Doors",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Dryer lint",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Egg Sells",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Electrical waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Electrical waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Facial Tissues",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Fake grass",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Feathers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Fish and Chips paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Flowers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Fluorescent tubes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Food and garden organics",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Food containers (styrofoam)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "if plastic can go in the recycling bin with yellow lid",
+      "notes/link": ""
+    },
+    {
+      "name": "Food Scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Food stickers and labels",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Fruit/veg scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Furniture",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "Resource Recovery Centre or book for Hard/green waste collection.",
+      "notes/link": ""
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Garden waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Gas bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "No",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "General garden clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "General garden clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "General garden clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Glad Wrap",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Glass bottles and jars without lids/caps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Glass bottles and jars without lids/caps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Communal Glass Recycling hub",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/communal-glass-recycling-and-fogo-recycling-hubs"
+    },
+    {
+      "name": "Glossy magazines",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Glossy writing pad",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Grains",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Grass Clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Grass Clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Grass Clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Greasy paper plates",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Greeting Cards",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Household chemicals",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Household chemicals",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Human hair and animal hair",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Jelly",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Kitchen paper towel",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Kitty litter",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Kitty litter synthetic",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Lawn clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Lawn clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Lawn clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Leaves",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Leftovers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Light bulbs",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Liquid waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Liquid waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Contact commercial suppliers",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Lollies",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Long life cartons",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Magazines",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Magazines/junk mail",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Manure",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Mattresses",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Mattresses",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Meat (raw and cooked)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Meat scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Medicine glass bottles (empty, rinsed)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Mesh onion bags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Milk bottles (without the lid)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Mirrors",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Napkins, paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Nappies",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Needles/syringes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "No",
+      "location": "Phone ASSIST 03 9209 6777",
+      "notes/link": ""
+    },
+    {
+      "name": "Medicine glass bottles (empty, rinsed)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Communal Glass Recycling hub",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/communal-glass-recycling-and-fogo-recycling-hubs"
+    },
+    {
+      "name": "Newspaper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Newspaper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Nuts and Seeds",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Oil",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Ovens",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Ovens",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Paper – shredded",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Paper – shredded",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Paper bags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Paper napkins",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Paper plates",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Paper towel rolls",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Paper towels",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pasta",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pavers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Landfill",
+      "collection/dropOff": "Drop off",
+      "location": "Brooklyn Transfer Station (Cleanaway), Old Geelong Road, Brooklyn,"
+    },
+    {
+      "name": "City of Wyndham Municipal Tip, West's Rd, Werribee,"
+    },
+    {
+      "name": "Clayton South Resource Recovery Centre (Cleanaway), Deals Rd & Fraser Rd, Clayton South, VIC, 3169\"",
+      "colorCode": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Pet food tins",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pizza boxes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "Can be put in Yellow Recycling bin (yellow lid)",
+      "notes/link": ""
+    },
+    {
+      "name": "Pizza boxes (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plain wrapping paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plant pots",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Plastic – biodegradable",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic bags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic bags of FOGO",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "Dispose of food/garden material in the FOGO bin",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic bubble wrap",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic containers (code 1-5) – takeaway (empty and rinsed)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic food wrappers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic strapping",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic wrap",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Popsicle sticks",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Post it notes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Post it notes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Poultry",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Printed serviettes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Prunings and cuttings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Prunings and cuttings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Prunings and cuttings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Pyrex ovenware (not broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Op shops",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Real Christmas trees",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Real Christmas trees",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Real Christmas trees",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Recyclable packaging",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Rice and other kitchen scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Salad and dressing",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Scrap metal",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Scrap metal",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Seafood",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Shellfish shells",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Shredded paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Small branches",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Small branches",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Small branches",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Smoke alarms",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Soft drink bottles without the lid",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Soil",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Landfill",
+      "collection/dropOff": "Drop off",
+      "location": "Brooklyn Transfer Station (Cleanaway), Old Geelong Road, Brooklyn,"
+    },
+    {
+      "name": "City of Wyndham Municipal Tip, West's Rd, Werribee,"
+    },
+    {
+      "name": "Clayton South Resource Recovery Centre (Cleanaway), Deals Rd & Fraser Rd, Clayton South, VIC, 3169\"",
+      "colorCode": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Soup sachets",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Spoiled food",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Sporting goods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Sporting goods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Op shops",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Steel pots",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Steel/aluminum (cans)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Steel/aluminum (cans)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Stereo",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "No",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Stereo",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Stereo",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Sticks",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Sticks",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Sticks",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Stock cube packaging",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Stoves",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Stoves",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Straw and hay",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Straw and hay",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Straw and hay",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Synthetic fertilizer",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Takeaway coffee cups",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Takeaway food cartons",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Tea leaves (loose)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Tea bags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Textiles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Textiles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Op Shops",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Thorny branches",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Thorny branches",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Thorny branches",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Timber (small)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Timber (small)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Tissues",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Toilet paper rolls (cardboard)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Toilet Rolls",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Toys",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Toys",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Op Shops",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Tree roots",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Twin/rope",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Tyres",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Contact commercial suppliers",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Uncooked Bones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Vacuum cleaner dirt",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Vacuum cleaner dirt",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost/worm farm",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/composting-at-home"
+    },
+    {
+      "name": "Vegetables",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Vinyl",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Vinyl",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Op Shops",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Washing machines",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "No",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Washing machines",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and green waste collection",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/hard-and-green-waste-collection-services"
+    },
+    {
+      "name": "Washing machines",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Resource Recovery Centre",
+      "collection/dropOff": "Drop off",
+      "location": "Corner of White and Boundary Streets, South Melbourne",
+      "notes/link": "https://www.portphillip.vic.gov.au/council-services/waste-recycling-and-rubbish/resource-recovery-centre-and-depot"
+    },
+    {
+      "name": "Waxed packaging",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Weeds",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Window glass",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "(wrap in a paper)"
+    }
+  ]
+}

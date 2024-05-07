@@ -1,0 +1,32 @@
+{
+  "name": "",
+  "regions": [
+    {
+      "region": "",
+      "postCodes": ""
+    }
+  ],
+  "bins": [
+    {
+      "type": "",
+      "lid": [""],
+      "canGoIn": [
+        ""
+      ],
+      "canNotGoIn": [
+        ""
+      ]
+    }
+  ],
+  "prodcuts": [
+    {
+      "name": "",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "",
+      "collection/dropOff": "",
+      "location": "",
+      "notes/link": ""
+    }
+  ]
+}

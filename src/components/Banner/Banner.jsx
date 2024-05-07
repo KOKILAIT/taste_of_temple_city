@@ -56,7 +56,12 @@ const Banner = () => {
                   </div>
                 </div>
                 <div>
-                  <button className="bg-gradient-to-r from-primary to-secondary text-white py-2 px-4 rounded-full shadow-xl hover:shadow-md">
+                  <button
+                    onClick={() =>
+                      window.location.replace("/components/Menu/Menu.jsx")
+                    }
+                    className="bg-gradient-to-r from-primary to-secondary text-white py-2 px-4 rounded-full shadow-xl hover:shadow-md"
+                  >
                     Order Now
                   </button>
                 </div>

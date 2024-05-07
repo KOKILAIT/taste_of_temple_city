@@ -1,0 +1,770 @@
+{
+  "name": "Yarra City",
+  "regions": [
+    {
+      "region": "Abbotsford",
+      "postCodes": "3067"
+    },
+    {
+      "region": "Alphington (south of Heidelberg Road)",
+      "postCodes": "3078"
+    },
+    {
+      "region": "Burnley",
+      "postCodes": "3121"
+    },
+    {
+      "region": "Carlton North,",
+      "postCodes": "3054"
+    },
+    {
+      "region": "Clifton Hill,",
+      "postCodes": "3068"
+    },
+    {
+      "region": "Collingwood",
+      "postCodes": "3066"
+    },
+    {
+      "region": "Cremorne",
+      "postCodes": "3121"
+    },
+    {
+      "region": "Fairfield (south of Heidelberg Road)",
+      "postCodes": "3078"
+    },
+    {
+      "region": "Fitzroy",
+      "postCodes": "3065"
+    },
+    {
+      "region": "Fitzroy North",
+      "postCodes": "3068"
+    },
+    {
+      "region": "Princes Hill",
+      "postCodes": "3054"
+    },
+    {
+      "region": "Richmond",
+      "postCodes": "3121"
+    }
+  ],
+  "bins": [
+    {
+      "type": "General-Waste-Bin",
+      "image": "/images/bins/rubbish.png",
+      "lid": ["red"],
+      "canGoIn": [
+        "Household waste is anything that cannot be:",
+        "re-used or recycled",
+        "placed in your compost bin",
+        "placed in your  yellow-lid recycling bin",
+        "placed in your purple-lid glass bin"
+      ],
+      "canNotGoIn": [
+        "Hot ashes",
+        "Liquids",
+        "Oil, paint and solvents",
+        "Syringes and needles",
+        "Timber or  building materials",
+        "Unwrapped vacuum dust",
+        "Batteries",
+        "Electronic waste (anything with a cord or battery)",
+        "Clothing and  textiles"
+      ]
+    },
+    {
+      "type": "Recycling-Bin",
+      "image": "/images/bins/recycling.png",
+      "lid": ["yellow"],
+      "canGoIn": [
+        "Paper, cardboard, junk mail and egg cartons",
+        "Aluminium foil and cans",
+        "Metal lids from bottles and jars",
+        "Milk, juice, soy milk and stock cartons",
+        "Plastic bottles labelled 1 and 2 (lids off)",
+        "All plastic food containers labelled 5"
+      ],
+      "canNotGoIn": [
+        "Glass bottles and jars (these can still be recycled in your purple glass bin)",
+        "Aerosol cans",
+        "Plastic lids of any kind, including trigger, spray and pump lids",
+        "All plastic items labelled 1 and 2 that are not plastic bottles",
+        "All plastic items labelled 3,4,6 and 7"
+      ]
+    },
+    {
+      "type": "Glass-Recycling-Bin",
+      "image": "/images/bins/glass.png",
+      "lid": ["purple"],
+      "canGoIn": [
+        "Glass jars (empty, no lids), Pasta sauce, jam, condiments etc",
+        "Glass bottles, including broken bottles (empty, no lids), Wine bottles, Beer bottles, Spirit (alcohol) bottles, Olive oil and sauce bottles"
+      ],
+      "canNotGoIn": [
+        "Drinking glasses",
+        "Broken windows and windows",
+        "Broken light bulbs",
+        "Vases",
+        "Perfume or makeup containers",
+        "Lids, corks or bottle tops"
+      ]
+    }
+  ],
+  "prodcuts": [
+    {
+      "name": "Asbestos",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Bamboo",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Baskets",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Batteries",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "BBQs (metal)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Bicycles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Bicycles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collectio/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Bottle tops/lids (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection/dropOff": "",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Books (paper)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Bricks (small amount)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Bubble wrap",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Car parts (small)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Car tyres",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Carpet and underlay",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Cartridges (printer/toner)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Cartridges (printer/toner)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Cereal box inserts (soft plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Chemicals",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Chip packets",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Cling wrap (clean and dry)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Clothing",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Clothing",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Computers and parts",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Computers and parts",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Cups and saucers (broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Cups and saucers (in-tact)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Curtains",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Doors (only 1 door allowed in each hard rubbish collection)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Electrical appliances",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Electronic waste e.g light bulbs, batteries, anything with a battery or cord (limit of 20kg per drop-off/collection)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Fridges",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Furniture",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Gas bottles (limit of 1)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Hard plastic items (such as containers, buckets, pots, and crates)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Hot water units",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Household chemicals",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Lunch boxes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Mattresses (limit of 1)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Mirrors",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Ovens",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Paint tins (with a limit of 5 x 20L containers)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Paint tins (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Perspex",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Picture frames",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Plant pots (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Plant pots (ceramics and clay)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Plastic bags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Plastic trays/baskets",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Pots and Pans",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Printers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Soft plastics (clean and empty, certain items only)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Solvents (up to 5L)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Sporting goods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Steel ( than tins and cans)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Stoves",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Syringes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Community recycling/disposal stations",
+      "collection": "",
+      "collection/dropOff": "Drop off",
+      "location": "e.g supermarkets, Officeworks, pharmacy for chemical waste",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/a-to-z-waste-and-recycling-guide/community-recycling-stations"
+    },
+    {
+      "name": "Televisions",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Textiles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Toys",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Tyres (car – limit of 4)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Vacuum cleaners",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "VHS tapes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Vinyl",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collectiondropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Washing machines",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Waxed paper/cardboard",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "White goods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Window glass",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    },
+    {
+      "name": "Wire",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard rubbish collection",
+      "collection/dropOff": "Collection",
+      "location": "Book a hard rubbish collection",
+      "notes/link": "https://www.yarracity.vic.gov.au/services/recycling-and-rubbish/green-waste-or-hard-rubbish-collection/book-a-hard-rubbish-collection"
+    }
+  ]
+}

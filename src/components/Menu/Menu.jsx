@@ -1,4 +1,6 @@
-import React from "react";
+import React, { useState } from "react";
+import { ToastContainer, toast } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 import Img from "../../assets/biryani.png";
 import Img2 from "../../assets/biryani2.png";
 import Img3 from "../../assets/biryani4.png";
@@ -24,7 +26,37 @@ const ServicesData = [
     description: "Freshly from Atlantics",
   },
 ];
-const Services = () => {
+const Services = ({ service, Add, Remove }) => {
+  const [isFormValid, setIsFormValid] = useState(false);
+  const [addCounts, setAddCounts] = useState({});
+  const [removeCounts, setRemoveCounts] = useState({});
+  const [email, setEmail] = useState(""); // Add this line
+  const [phone, setPhone] = useState(""); // And this line
+  const validateForm = () => {
+    return email !== "" && phone !== "";
+  };
+  const handleAdd = (serviceName) => {
+    Add(serviceName);
+    setAddCounts((prevCounts) => ({
+      ...prevCounts,
+      [serviceName]: (prevCounts[serviceName] || 0) + 1,
+    }));
+  };
+
+  const handleRemove = (serviceName) => {
+    Remove(serviceName);
+    setAddCounts((prevCounts) => ({
+      ...prevCounts,
+      [serviceName]: Math.max((prevCounts[serviceName] || 0) - 1, 0),
+    }));
+  };
+  function Add(columnName) {
+    console.log("Updated fact", columnName);
+  }
+  function Remove(columnName) {
+    console.log("Removed Itemt", columnName);
+  }
+
   return (
     <>
       <span id="services"></span>
@@ -55,37 +87,102 @@ const Services = () => {
                   />
                 </div>
                 <div className="p-4 text-center">
-                  <div className="w-full ">
-                    {/* <StarRatings
-                      rating={4}
-                      starRatedColor="yellow"
-                      isSelectable={false}
-                      starHoverColor="yellow"
-                      // starSelectingHoverColor
-                      starDimension="20px"
-                      changeRating={() => {}}
-                      numberOfStars={5}
-                      name="rating"
-                    /> */}
-                  </div>
+                  <div className="w-full "></div>
                   <h1 className="text-xl font-bold">{service.name}</h1>
                   <p className="text-gray-500 group-hover:text-white duration-high text-sm line-clamp-2">
                     {service.description}
                   </p>
                 </div>
                 <div className="flex justify-center gap-4 mt-10">
-                  <button className="bg-gradient-to-r from-primary to-secondary text-white py-2 px-4 rounded-full shadow-xl hover:shadow-md">
-                    ➕
+                  <button
+                    onClick={() => handleAdd(service.name)}
+                    className="bg-gradient-to-r from-primary to-secondary text-white py-2 px-4 rounded-full shadow-xl hover:shadow-md mr-2" // added margin-right
+                  >
+                    ➕{addCounts[service.name] || 0}
                   </button>
-                  <button className="bg-gradient-to-r from-primary to-secondary text-white py-2 px-4 rounded-full shadow-xl hover:shadow-md">
-                    ➖
+                  <button
+                    onClick={() => handleRemove(service.name)}
+                    className="bg-gradient-to-r from-primary to-secondary text-white py-2 px-4 rounded-full shadow-xl hover:shadow-md ml-2" // added margin-left
+                  >
+                    ➖{removeCounts[service.name] || 0}
                   </button>
                 </div>
               </div>
             ))}
+            <>
+              <form
+                onSubmit={(e) => {
+                  e.preventDefault();
+                }}
+                className="form"
+              >
+                <input
+                  type="text"
+                  placeholder="Share your email"
+                  value={email}
+                  onChange={(e) => {
+                    setEmail(e.target.value);
+                    setIsFormValid(validateForm());
+                  }}
+                />
+                <input
+                  type="phone"
+                  placeholder="Share your contact number"
+                  value={phone}
+                  onChange={(e) => {
+                    setPhone(e.target.value);
+                    setIsFormValid(validateForm());
+                  }}
+                />
+
+                <button
+                  onClick={() => {
+                    if (!isFormValid) {
+                      toast("Please fill in all the fields", {
+                        style: {
+                          backgroundColor: "#eab308",
+                          color: "#fff",
+                        },
+                      });
+                      return;
+                    }
+                    let message = [];
+                    message.push("Order Placed Successfully!");
+                    for (const [serviceName, count] of Object.entries(
+                      addCounts
+                    )) {
+                      if (count > 0) {
+                        message.push(`${serviceName}: ${count}`);
+                      }
+                    }
+                    if (message.length > 0) {
+                      toast(
+                        <div>
+                          {message.map((item, index) => (
+                            <div key={index}>{item}</div>
+                          ))}
+                        </div>,
+                        {
+                          style: {
+                            backgroundColor: "#eab308", // Change this to your theme's background color
+                            color: "#fff", // Change this to your theme's text color
+                          },
+                        }
+                      );
+                    }
+                    //   window.location.reload();
+                  }}
+                  className="align-middle bg-gradient-to-r from-primary to-secondary text-white py-2 px-4 rounded-full shadow-xl hover:shadow-md ml-2 "
+                >
+                  Place Order
+                </button>
+              </form>
+            </>
           </div>
         </div>
       </div>
+
+      <ToastContainer />
     </>
   );
 };

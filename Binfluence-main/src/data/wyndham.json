@@ -1,0 +1,4873 @@
+{
+  "name": "Wyndham",
+  "regions": [
+    {
+      "region": "hoppers crossing",
+      "postCodes": "3029"
+    },
+    {
+      "region": "little river",
+      "postCodes": "3211"
+    },
+    {
+      "region": "quandong",
+      "postCodes": "3030"
+    },
+    {
+      "region": "eynesbury",
+      "postCodes": "3338"
+    },
+    {
+      "region": "wyndham vale 3024",
+      "postCodes": "3024"
+    },
+    {
+      "region": "mount cottrell 3024",
+      "postCodes": "3024"
+    },
+    {
+      "region": "manor lakes 3024",
+      "postCodes": "3024"
+    },
+    {
+      "region": "tarneit 3029",
+      "postCodes": "3029"
+    },
+    {
+      "region": "truganina 3029",
+      "postCodes": "3029"
+    },
+    {
+      "region": "laverton north 3026",
+      "postCodes": "3026"
+    },
+    {
+      "region": "laverton",
+      "postCodes": "3028"
+    },
+    {
+      "region": "werribee",
+      "postCodes": "3030"
+    },
+    {
+      "region": "williams landing",
+      "postCodes": "3027"
+    },
+    {
+      "region": "point cook",
+      "postCodes": "3030"
+    },
+    {
+      "region": "werribee south",
+      "postCodes": "3030"
+    },
+    {
+      "region": "cocoroc",
+      "postCodes": "3030"
+    }
+  ],
+  "bins": [
+    {
+      "type": "General-Waste-Bin",
+      "image": "/images/bins/wyndham-rubbish.png",
+      "lid": ["red", "yellow"],
+      "canGoIn": [
+        "Flexible Plastics (these can be recycled at Coles and Woolworths)",
+        "Nappies",
+        "Polystyrene/Foam in small bags so it does not jam the bin",
+        "Broken Crockery",
+        "Food Scraps (if you do not have a green bin, worm farm or compost bin)",
+        "Animal droppings"
+      ],
+      "canNotGoIn": [
+        "Car parts",
+        "Rocks",
+        "soil",
+        "green waste",
+        "Building materials",
+        "Recyclables",
+        "Electronic waste (e-waste)",
+        "asbestos and toxic chemicals "
+      ]
+    },
+    {
+      "type": "Recycling-Bin",
+      "image": "/images/bins/wyndham-recycling.png",
+      "lid": [""],
+      "canGoIn": [
+        "Hard plastics: plastic milk bottles, biscuit & cake trays, cleaning bottles, deodorant cans, ice cream containers, insect spray bottles, medicine bottles, bottles, punnets, shampoo & conditioner bottles, takeaway containers, Tupperware & yoghurt containers.",
+        "Metals: aerosol cans(empty), aluminium cans, trays and foil, deodorant cans & tin cans (including tuna, pet food, etc.).",
+        "Paper and Cardboard: advertising material, cereal & biscuit boxes, egg cartons, envelopes, greeting cards, magazines, newspaper, office paper, pizza boxes, takeaway containers, toilet rolls, washing powder boxes & wrapping paper",
+        "Glass: glass bottles and jars, if broken then wrapped or placed in a box"
+      ],
+      "canNotGoIn": [
+        "bagged recyclables",
+        "soft plastics (such as plastic bags and food wrappers)",
+        "polystyrene",
+        "nappies",
+        "food scraps or garden waste",
+        "Broken window panes or bakeware",
+        "milk cartons"
+      ]
+    },
+    {
+      "type": "Green-Waste-Bin",
+      "image": "/images/bins/green.png",
+      "lid": ["green"],
+      "canGoIn": [
+        "Garden Waste: Grass, branches, leaves, weeds",
+        "Food waste: Fruit and vegetable scraps, coffee, egg shells"
+      ],
+      "canNotGoIn": [
+        "Garbage",
+        "Plastic bags",
+        "Coffee pods",
+        "Dog/Cat poo",
+        "Cigarette butts",
+        "Ceramic crockery",
+        "Tea bags"
+      ]
+    }
+  ],
+  "prodcuts": [
+    {
+      "name": "Advertising material",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Advertising material",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3030",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Aerosol Cans, spray cans (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Aerosol Cans, spray cans (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3031",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Aluminium cans, trays and foil",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Aluminium cans, trays and foil",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3032",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Animal Droppings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Appliances (electrical)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Appliances (electrical)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3033",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Appliances (electrical)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Asbestos",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "EPA",
+      "location": "",
+      "notes/link": "https://www.epa.vic.gov.au/for-community/how-to/remove-asbestos-from-home"
+    },
+    {
+      "name": "Baby food packs (empty - lids on)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Bag ties",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Bags / Backpacks",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Bags / Backpacks",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Baking paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Band aids",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Baskets",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Baskets",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Baths",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Baths",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3034",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Batteries (household)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "BBQ",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "BBQ",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3035",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Bean bag fill / polystyrene (bagged)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Beauty containers (empty - plastic only)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Beauty containers (empty - plastic only)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3036",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Beauty containers (glass)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Beauty containers (glass)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Terracycle",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "https://www.terracycle.com/en-AU/"
+    },
+    {
+      "name": "Beauty products",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Bed Sheets (clean)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Bed Sheets (clean)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Beds",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Beds",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3037",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Bicycles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Bicycles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3038",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Bicycles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Biscuit trays (plas􀀁c)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Biscuit trays (plas􀀁c)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3039",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Blankets (clean)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Blankets (clean)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Blu tak",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Books",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Books",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Bottle tops (loose)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Bottle tops (loose)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Bottle tops (on bottle)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Bottle tops (on bottle)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3040",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3041",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Branches",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Branches",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Bread",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Bread Bag",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Bricks, cement, rubble",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3042",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Bubble Wrap",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Building materials",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3043",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Butter Container",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Butter Container",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3044",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Cake trays",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cake trays",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3045",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Cans (steel, aluminium)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Car Batteries",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3046",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Car parts (small)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Car parts (small)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3047",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Car seats",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Car seats",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3048",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Car tyres",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Car tyres",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3049",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Carbon paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cardboard",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cardboard",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Cardboard",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3050",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Cardboard Box (Waxed)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cardboard Box (Waxed)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Cardboard Box (Waxed)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3051",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Carpet or underlay",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Carpet or underlay",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3052",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Cartons (eg milk)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cartons (Tetra Pak – e.g. long-life milk)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cassette tapes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cassette tapes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Cat Litter",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "CD Case",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "CDs",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Cellophane",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Ceramics (broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Ceramics (not broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Ceramics (not broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Cereal and Biscuit Boxes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cereal and Biscuit Boxes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3053",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Cereal pack (plas􀀁c - empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Chemicals (household)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Chip Packet",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cigarette butts",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cleaning bottles (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cleaning bottles (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3054",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Cleaning chemicals (ammonia based)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Cleaning rags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cleaning rags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Cling Wrap",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Clothing",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Clothing",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Clothing",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Coat hangers (metal/plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Coffee Cup (paper, plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Coffee Cup (paper, plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Coffee cup lid",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Coffee cup lid",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Coffee Grounds",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Coffee Grounds",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "collection/dropOff": "Collection",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Coffee Pods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Coffee Pods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Coffee Pods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Terracycle",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "https://www.terracycle.com/en-AU/"
+    },
+    {
+      "name": "Computers & Accessories",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Computers & Accessories",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3055",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Computers & Accessories",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Concrete",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3056",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Concrete",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Online Search",
+      "location": "",
+      "notes/link": "Use an online search engine to find alternative disposal options."
+    },
+    {
+      "name": "Cooking Oil Containers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cooking Oil Containers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3057",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Cooking Oils (up to 15 litres)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Corks",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Corks",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Online Search",
+      "location": "",
+      "notes/link": "Use an online search engine to find alternative disposal options."
+    },
+    {
+      "name": "Cosmetics",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Cosmetics containers (empty - platic only)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cosmetics containers (empty - platic only)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3058",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Cosmetics containers (glass)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cosmetics containers (glass)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Terracycle",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "https://www.terracycle.com/en-AU/"
+    },
+    {
+      "name": "Cotton wool bud",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Couches or sofas",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Couches or sofas",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3059",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Crockery (broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Crockery (broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Crockery (broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3060",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Crockery (not broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Crockery (not broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3061",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Crockery (not broken)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Curtains",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Curtains",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3062",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Curtains",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Cutlery",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Cutlery",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Deodorant cans & roll-ons (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Deodorant cans & roll-ons (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3063",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Detergents, drain cleaners",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Dirt",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3064",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Dog poo",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Doona (bagged in plastic bag)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Doona (bagged in plastic bag)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3065",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Doors",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Doors",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3066",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Drink Can",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Drink Can",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3067",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Drums (agricultural & empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "DrumMUSTER",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "collection/dropOff site at the Diggers Road Hall, cnr Whites and Diggers Road, Werribee 3030."
+    },
+    {
+      "name": "DVD cases",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "DVDs",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "E-Waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "E-Waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3068",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "E-Waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Egg Carton",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Egg Carton",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3069",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Egg Carton",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Egg Shells",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Egg Shells",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Egg Shells",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Electrical Appliances",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Electrical Appliances",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3070",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Electrical Appliances",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Envelopes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Envelopes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3071",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Eyeglasses",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Eyeglasses",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Face masks (cut straps)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Face masks (cut straps)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Terracycle",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "https://www.terracycle.com/en-AU/"
+    },
+    {
+      "name": "Fashion accessories",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Fertilisers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Fire Extinguishers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Fire Extinguishers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3072",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Floor lino (Rolled)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Floor lino (Rolled)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3073",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Flooring (Timber)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Flooring (Timber)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Flooring (Timber)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3074",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Fluorescent tubes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3075",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Foam items (large)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Foam items (large)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3076",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Foam items (small)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Foam items (small)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3077",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Foil (clean, in a ball)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Foil (clean, in a ball)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3078",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Foil trays",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Foil trays",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3079",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Food Scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Food Scraps (no meat)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Food Scraps (no meat)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Fridges / freezers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Fridges / freezers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3080",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Fruit & Vegetable Scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Fruit & Vegetable Scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Fruit & Vegetable Scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Fuels",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Furniture",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Furniture",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3081",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Garden Hose",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Garden Waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Garden Waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Garden Waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3082",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Gas Cylinders",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3083",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Glad wrap",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Glass (broken - wrap in newspaper)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Glass (broken - wrap in newspaper)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Glass bottles, jars (brown, green or clear, with lids)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Glasses (drinking)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Glasses (drinking)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Glasses (for eyes)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Glasses (for eyes)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Gloves (latex)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Grass Clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Grass Clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Grass Clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Grass Clippings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Green Waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Green Waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Green Waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Green Waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Grey Plastic Bags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Handbags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Handbags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Hats",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Hats",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Hessian",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Hot water bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Hot water bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Hot water systems",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Hot water systems",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3084",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Ice cream containers (cardboard)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Ice cream containers (plas􀀁c)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Ice cream containers (plas􀀁c)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3085",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Ink Cartridges (printer, toner)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Insect spray bo􀀂les (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Insect spray bo􀀂les (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3086",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Jars (glass) and lids (metal or plas􀀁c – lids on)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Jars (glass) and lids (metal or plas􀀁c – lids on)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3087",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Jewellery",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Junk mail",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Junk mail",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3088",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Kitty litter",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Knives (well wrapped)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Knives (well wrapped)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Lawn Mowers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Lawn Mowers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3089",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Leaves",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Leaves",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Leaves",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3090",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Light Bulb/Globe",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Lolly wrappers (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Magazines",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Magazines",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3091",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Magnets",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Makeup containers (empty - glass)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Makeup containers (empty - glass)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Terracycle",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "https://www.terracycle.com/en-AU/"
+    },
+    {
+      "name": "Makeup containers (empty - plastic only)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Makeup containers (empty - plastic only)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Terracycle",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "https://www.terracycle.com/en-AU/"
+    },
+    {
+      "name": "Makeup products",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Markers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Markers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Masks (disposable)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Masks (disposable)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Terracycle",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "https://www.terracycle.com/en-AU/"
+    },
+    {
+      "name": "Matchboxes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Mattresses",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Mattresses",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3092",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Meat scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Medicine bo􀀂les (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Medicine bo􀀂les (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3093",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Medicine packets (e.g. blister packs)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Medicines",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Medicines",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Metal scraps / shee􀀁ng",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Metal scraps / shee􀀁ng",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3094",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Metal scraps / shee􀀁ng",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Online Search",
+      "location": "",
+      "notes/link": "Use an online search engine to find alternative disposal options."
+    },
+    {
+      "name": "Metal tins & cans",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Metal tins & cans",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3095",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Milk Bo􀀂les (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Milk Bo􀀂les (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3096",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Mirrors",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Mirrors",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Mobile Phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Motor Oil",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Nappies (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Nappies (reusable and clean)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Nappies (reusable and clean)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Needles (in syringe container)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Netting (put in a bag)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Newspaper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Newspaper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3097",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Oil (motor oil) - up to 15 litres",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3098",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Oil (motor oil) - up to 15 litres",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Oil droppers (separate pump from recyclable bo􀀂le)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Ovens",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Ovens",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3099",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Paint Can/Tin (liquid/full)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3100",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Paint strippers, thinners, turpen􀀁ne",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Paint Tins (empty - with removed lids for hard waste)Paint Can/Tin (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3101",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Pallets",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3102",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3103",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Paper (shredded)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Paper (shredded)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Paper Towel",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Paper Towel",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Pebbles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3104",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Pencil",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pens",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pens",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Pet food bags (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pet food cans (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pet food cans (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3105",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Pharmaceutical packets (e.g. blister packs)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pharmaceuticals",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Pharmaceuticals",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Photos (incl. lithographic film, nega􀀁ve film, polaroids and slides)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Photos (incl. lithographic film, nega􀀁ve film, polaroids and slides)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Picture frames",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Picture frames",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Pillow",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pillow",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3106",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Pizza boxes (empty, oily/greasy is okay)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pizza boxes (empty, oily/greasy is okay)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3107",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "PLA products (compostable plas􀀁c)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Placemats",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Placemats",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Plant cuttings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plant cuttings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Plant cuttings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Plant cuttings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plant Material",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plant Material",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Plant Material",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Plant Material",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plant pots (ceramic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plant pots (ceramic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Plant pots (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plant pots (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Plant pots (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Plasterboard",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3108",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Plas􀀁c Bags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic bottles & lids (lids on)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic bottles & lids (lids on)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3109",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Plastic containers & lids (lids on)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic containers & lids (lids on)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3110",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Plastic containers (large)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3111",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Plastic crockery",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic strapping",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic Straw",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic toys (electrical)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Plastic toys (electrical)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Plastic toys (electrical)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3112",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Plastic toys (not electrical)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic wrappers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plastic wrappers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Plate glass",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plates (ceramic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plates (ceramic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Plates (paper)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Plates (paper)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3113",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Plates (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Poisons",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Detox your home",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "Drop off unwanted household chemicals at the free Detox Your Home events"
+    },
+    {
+      "name": "Polystyrene",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Polystyrene (large items)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Polystyrene (large items)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Polystyrene food trays",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pool equipment",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pool equipment",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Post satchels (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pots and Pans (metal, no glass lid)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Pots and Pans (metal, no glass lid)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3114",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Pots and Pans (metal, no glass lid)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Printer Cartridges (printer, toner)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Printers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Printers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3115",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Printers",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Pump bottles (keep pump on bottle)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Pump bottles (keep pump on bottle)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3116",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Punnets (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "PVC pipes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "PVC pipes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3117",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Pyrex",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Receipts",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Rice bags (hessian)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Rice bags (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Rock",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3118",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Rubber",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Rubber bands",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Rubber gloves",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Rugs",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Rugs",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3119",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Scarves",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Scarves",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Scrap Metal",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Scrap Metal",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3120",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Seedling container",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Serum pumps - (separate pump from recyclable bo􀀂le)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Shampoo & Conditioner Bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Shampoo & Conditioner Bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3121",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Shoes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Shower screens",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Shower screens",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3122",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Slurpee cup (paper and plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Slurpee cup (paper and plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Slurpee cup (plastic only)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Slurpee cup (plastic only)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Slurpee cup lid",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Slurpee cup lid",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Smoke Alarms",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Smoke Alarms",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3123",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Smoke Alarms",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Soft Plastics",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Soil",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3124",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Spectacles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Spectacles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Sponges",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Sporting equipment",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Sporting equipment",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Sporting equipment",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Spray Bottles (empty) - keep spray pump on bottle",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Stationary",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Steel ( than tins & cans)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Steel ( than tins & cans)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3125",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Sticks",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Sticks",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Sticks",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Stone",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3126",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Stoves",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Stoves",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3127",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Straws (paper/bamboo/wheat)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Straws (paper/bamboo/wheat)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Straws (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Straws (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "String",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Styrofoam (small)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Styrofoam (small)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3128",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Styrofoam items (large)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Styrofoam items (large)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3129",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Sweet wrappers (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Syringes (in a syringe container)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Takeaway containers (plastic, cardboard - empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Takeaway containers (plastic, cardboard - empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3130",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Tea Bags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Tea Bags",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Televisions / TVs",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Televisions / TVs",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3131",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Textiles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3132",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Textiles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Ties",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Ties",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Tiles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3133",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Timber",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Timber",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Timber",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3134",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Tin cans",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Tin cans",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3135",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Tissues",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Tissues",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Toilet paper rolls",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Toilet paper rolls",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3136",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Tools",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Tools",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Tools",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3137",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Tools",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Toothbrush",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Toothbrush",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Terracycle",
+      "collection/dropOff": "Drop off",
+      "location": "",
+      "notes/link": "https://www.terracycle.com/en-AU/"
+    },
+    {
+      "name": "Toothpaste Tubes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Towels",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Towels",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Toys (electrical)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Toys (electrical)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3138",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Toys (electrical)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Toys (hard)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Toys (hard)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Toys (hard)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Toys (soft)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Toys (soft)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Toys (soft)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3139",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Toys (soft)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Tree prunings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Tree prunings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Tree prunings",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Tupperware",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Tupperware",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3140",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Tupperware",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Twine",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Tyres (including tubes)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Tyres (including tubes)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3141",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Vacuum cleaner dust",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Vacuum cleaner dust",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Vegetable & Fruit Scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Vegetable & Fruit Scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Vegetable & Fruit Scraps",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Videos Cassettes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Videos Cassettes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Vinyl",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Vinyl",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Vinyl",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3142",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Washing Machines",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Washing Machines",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3143",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Washing powder boxes (empty)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Waxed paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Weeds",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Weeds",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your green waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Weeds",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Compost bin or worm farm",
+      "location": "Your own private compost bin or worm farm at home.",
+      "notes/link": "https://www.wyndham.wormlovers.com.au/"
+    },
+    {
+      "name": "Weeds",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Wet Wipes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "White Goods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "White Goods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3144",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Windows",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3145",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Wood and Timber",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Wood and Timber",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Hard and Green Waste Collection",
+      "collection/dropOff": "Collection",
+      "location": "request hard and green waste pickup",
+      "notes/link": "https://www.wyndham.vic.gov.au/services/waste-recycling/hard-and-green-waste-collection/dropOff-service"
+    },
+    {
+      "name": "Wood and Timber",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3146",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "Wooden spoons",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Wrappers (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Wrappers (plastic)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Wrapping Paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Wrapping Paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Municipal Tip",
+      "collection/dropOff": "Drop off",
+      "location": "Municipal Tip (Refuse Disposal Facility), 470 Wests Road, Werribee, VIC 3147",
+      "notes/link": "https://www.wyndham.vic.gov.au/venues/municipal-tip-refuse-disposal-facility"
+    },
+    {
+      "name": "X-Rays",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": " providers via Zero Waste Map",
+      "collection/dropOff": "Drop off",
+      "location": "Use Wyndham's Zero Waste Map to help you find services or locations to drop off recyclables",
+      "notes/link": "https://experience.arcgis.com/experience/32b9a5ec9adb4cb3af75b8bc94fe9caa"
+    },
+    {
+      "name": "Yoghurt Container",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your recycling bin",
+      "collection/dropOff": "Collection",
+      "location": "",
+      "notes/link": ""
+    },
+    {
+      "name": "Yogurt Packs (empty - lid on)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "canIRecycleThis": "Put in your general waste bin",
+      "collection/dropOff": "Collection"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "name": "Melbourne City Council",
+  "regions": [
+    {
+      "region": "Melbourne",
+      "postCodes": "3000"
+    }
+  ],
+  "bins": [
+    {
+      "type": "General-Waste-Bin",
+      "image": "/images/bins/rubbish.png",
+      "lid": [],
+      "canGoIn": [
+        "General rubbish",
+        "Nappies (wrapped or bagged)",
+        "Food waste - only if you do not have a food and garden waste service",
+        "Polystyrene and foam (including meat trays)",
+        "Plastic bags and soft plastics",
+        "Window glass, glassware, mirrors, Pyrex and crockery"
+      ],
+      "canNotGoIn": [
+        "Any items that can be recycled in your yellow bin lid, in addition to:",
+        "Garden waste",
+        "Commercial quantities of food waste",
+        "Building material including bricks, concrete and timber",
+        "Liquid waste or ashes",
+        "Chemicals, paints, oils and solvents",
+        "Syringes",
+        "Car parts or motor oil",
+        "Batteries or other electronic waste",
+        "Unwrapped vacuum dust and polystyrene beads"
+      ]
+    },
+    {
+      "type": "Recycling-Bin",
+      "image": "/images/bins/recycling.png",
+      "lid": ["yellow"],
+      "canGoIn": [
+        "Hard/rigid plastic bottles and containers ",
+        "Paper and cardboard including clean pizza boxes (no waxed or greasy cardboard)",
+        "Aluminium cans, foil (scrunch into a ball) and trays",
+        "Steel cans",
+        "Empty aerosol cans",
+        "Glass bottles and jars (that have been containing food or drink)"
+      ],
+      "canNotGoIn": [
+        "Soft plastics (for example, food wrappers, plastic bags, chip packets).",
+        "Cling wrap",
+        "Bagged garbage or bagged recycling",
+        "Long life milk or juice cartons",
+        "Nappies or nappy wipes",
+        "Expanded polystyrene and foam (including meat trays)",
+        "Window glass, glassware, mirrors, Pyrex and crockery",
+        "Food or garden waste",
+        "Textiles and clothing",
+        "Batteries and electronic waste",
+        "Syringes",
+        "Waxed cardboard"
+      ]
+    },
+    {
+      "type": "Green-Waste-Bin",
+      "image": "/images/bins/green.png",
+      "lid": ["green"],
+      "canGoIn": [
+        "fruit and vegetable scraps (including citrus, onion, garlic, herbs, spices)",
+        "bread, rice and pasta",
+        "leftover food scraps",
+        "spoiled or rotten food ",
+        "solid dairy products (butter, cheese)",
+        "meat, fish and bones",
+        "soft shell seafood (prawns, shrimps, crayfish, lobster)",
+        "loose coffee grounds ",
+        "loose tea leaves ",
+        "eggshells",
+        "jelly",
+        "garden cuttings (twigs, branches - cut to fit neatly in the bin) ",
+        "weeds",
+        "grass cuttings and leaves",
+        "cut flowers",
+        "straw and hay",
+        "wooden icy pole sticks, wooden chopsticks, toothpicks, skewers (no plastics)",
+        "human hair and animal hair",
+        "dryer lint"
+      ],
+      "canNotGoIn": [
+        "plastic or plastic bags",
+        "biodegradable or compostable bags and packaging (only use council approved caddy liners)",
+        "tea bags",
+        "coffee pods, compostable cups and coffee cups (including biodegradable marked items)",
+        "liquids including cooking oil",
+        "hard seafood shells (mussels, oyster, pipi shells, large crab)",
+        "recyclables (paper, cardboard, aluminium, steel and glass items)",
+        "soft plastics (cling wrap, chip packets)",
+        "bricks and building rubble",
+        "treated and painted timber, treated lattice, other timber building materials ",
+        "rocks and pebbles",
+        "garden hoses",
+        "string, twine, ties, rope, metal wire",
+        "plant pots ",
+        "cotton wool, cotton wool buds",
+        "pet poo or pet litter",
+        "vacuum dust ",
+        "ash (from home fire)",
+        "cigarette butts",
+        "toys"
+      ]
+    }
+  ],
+  "prodcuts": [
+    {
+      "name": "Aluminium can",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Batteries (household/domestic quantities)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Resource Recovery Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Rye Landfill & Resource Recovery Centre, 280 Truemans Road, Fingal. Melway",
+      "Notes/Link": "https://www.mornpen.vic.gov.au/Your-Property/Rubbish-Recycling/Tips-Hoppers/Rye-Landfill-Resource-Recovery-Centre"
+    },
+    {
+      "name": "Batteries (household/domestic quantities)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Resource Recovery Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Tyabb Resource Recovery Centre, 21 McKirdys Road, Tyabb. Melway",
+      "Notes/Link": "https://www.mornpen.vic.gov.au/Your-Property/Rubbish-Recycling/Tips-Hoppers/Tyabb-Resource-Recovery-Centre"
+    },
+    {
+      "name": "Batteries (household/domestic quantities)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Resource Recovery Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mornington Resource Recovery Centre, 134 Watt Road, Mornington. Melway",
+      "Notes/Link": "https://www.mornpen.vic.gov.au/Your-Property/Rubbish-Recycling/Tips-Hoppers/Mornington-Resource-Recovery-Centre-Tip"
+    },
+    {
+      "name": "Batteries (household/domestic quantities)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "B-cycle",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://bcycle.com.au/drop-off/"
+    },
+    {
+      "name": "Batteries (household/domestic quantities)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Ecobatt",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.ecobatt.net/drop-off-Locations/"
+    },
+    {
+      "name": "Biodegradable/compostable cups",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Bottle tops (metal and plastic) ",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Cardboard and paper",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Chemicals",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Detox your home",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.sustainability.vic.gov.au/detoxyourhome"
+    },
+    {
+      "name": "Clothes, shoes and textiles (damaged)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Clothes, shoes and textiles (resaleable)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Op shop",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://opshop.org/"
+    },
+    {
+      "name": "Clothes, shoes and textiles (resaleable)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Resource Recovery Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mornington Resource Recovery Centre, 134 Watt Road, Mornington. Melway",
+      "Notes/Link": "https://www.mornpen.vic.gov.au/Your-Property/Rubbish-Recycling/Tips-Hoppers/Mornington-Resource-Recovery-Centre-Tip"
+    },
+    {
+      "name": "Coffee cup lids",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Coffee cups (no lid)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Disposable nappies",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Food waste",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your Green waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Glass (bottles and jars, lids off)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Glass broken pieces (wrap in paper)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your general waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Green waste  ",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your Green waste bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": "lawn clippings, branches, garden prunings, leaves and timber that is no greater than 10 cm in diameter and 30 cm in length"
+    },
+    {
+      "name": "Green/garden waste (excess)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Hard and Green Waste Collection",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": "https://www.mornpen.vic.gov.au/Your-Property/Rubbish-Recycling/Booked-Hard-Green-Waste-Service"
+    },
+    {
+      "name": "Metal bottle caps (if small place inside larger metal item)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Metal lids (from jars)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Milk bottles",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Resource Recovery Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Tyabb Resource Recovery Centre, 21 McKirdys Road, Tyabb. Melway",
+      "Notes/Link": "https://www.mornpen.vic.gov.au/Your-Property/Rubbish-Recycling/Tips-Hoppers/Tyabb-Resource-Recovery-Centre"
+    },
+    {
+      "name": "Mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Resource Recovery Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mornington Resource Recovery Centre, 134 Watt Road, Mornington. Melway",
+      "Notes/Link": "https://www.mornpen.vic.gov.au/Your-Property/Rubbish-Recycling/Tips-Hoppers/Mornington-Resource-Recovery-Centre-Tip"
+    },
+    {
+      "name": "Mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Resource Recovery Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Rye Landfill & Resource Recovery Centre, 280 Truemans Road, Fingal. Melway",
+      "Notes/Link": "https://www.mornpen.vic.gov.au/Your-Property/Rubbish-Recycling/Tips-Hoppers/Rye-Landfill-Resource-Recovery-Centre"
+    },
+    {
+      "name": "Mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Mobile Muster",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.mobilemuster.com.au/"
+    },
+    {
+      "name": "Mobile phones",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Zoo Victoria",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.zoo.org.au/theyre-calling-on-you-phones/"
+    },
+    {
+      "name": "Needles and syringes",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Needle and Syringe Program",
+      "Collection/dropOff": "Drop off",
+      "Location": "",
+      "Notes/Link": "https://www.health.vic.gov.au/aod-treatment-services/needle-and-syringe-program"
+    },
+    {
+      "name": "Plastic bottles (lids off)",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "Steel can",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Put in your recycling bin",
+      "Collection/dropOff": "Collection",
+      "Location": "",
+      "Notes/Link": ""
+    },
+    {
+      "name": "White goods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Resource Recovery Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Rye Landfill & Resource Recovery Centre, 280 Truemans Road, Fingal. Melway",
+      "Notes/Link": "https://www.mornpen.vic.gov.au/Your-Property/Rubbish-Recycling/Tips-Hoppers/Rye-Landfill-Resource-Recovery-Centre"
+    },
+    {
+      "name": "White goods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Resource Recovery Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Tyabb Resource Recovery Centre, 21 McKirdys Road, Tyabb. Melway",
+      "Notes/Link": "https://www.mornpen.vic.gov.au/Your-Property/Rubbish-Recycling/Tips-Hoppers/Tyabb-Resource-Recovery-Centre"
+    },
+    {
+      "name": "White goods",
+      "colorCode": "",
+      "colorCodeMeaning": "",
+      "Can I recycle this ": "Resource Recovery Centre",
+      "Collection/dropOff": "Drop off",
+      "Location": "Mornington Resource Recovery Centre, 134 Watt Road, Mornington. Melway",
+      "Notes/Link": "https://www.mornpen.vic.gov.au/Your-Property/Rubbish-Recycling/Tips-Hoppers/Mornington-Resource-Recovery-Centre-Tip"
+    }
+  ]
+}
