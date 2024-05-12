@@ -1,5 +1,6 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
+import {} from "react-router-dom";
 import Logo from "../../assets/food-logo.png";
 import { FaCartShopping } from "react-icons/fa6";
 import DarkMode from "./DarkMode";
@@ -22,6 +23,8 @@ const Menu = [
   },
 ];
 const Navbar = () => {
+  //const history = useHistory();
+  const navigate = useNavigate();
   return (
     <>
       <div className="shadow-md bg-white dark:bg-gray-900 dark:text-white duration-200">
@@ -45,9 +48,7 @@ const Navbar = () => {
                 ))}
               </ul>
               <button
-                onClick={() =>
-                  window.location.replace("/components/Menu/Menu.jsx")
-                }
+                onClick={() => navigate("/components/Menu/Menu.jsx")}
                 className="bg-gradient-to-r from-primary to-secondary hover:scale-105 duration-200 text-white py-1 px-4 rounded-full flex items-center gap-3"
               >
                 Order Now

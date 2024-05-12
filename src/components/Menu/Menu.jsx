@@ -12,22 +12,27 @@ const ServicesData = [
     name: "Biryani",
     description:
       "Briyani is an Emotion. Enjoy the real spices of subcontinent.",
+    price: 10,
   },
   {
     id: 2,
     img: Img2,
     name: "Chiken kari",
     description: "Chettinadu chicken is everything you need for the weekend",
+    price: 5,
   },
   {
     id: 3,
     img: Img2,
     name: "Fish curry",
     description: "Freshly from Atlantics",
+    price: 12,
   },
 ];
 const Services = ({ service, Add, Remove }) => {
   const [isFormValid, setIsFormValid] = useState(false);
+  const [servicePrices, setServicePrices] = useState({});
+  const [totalPrice, setTotalPrice] = useState(0);
   const [addCounts, setAddCounts] = useState({});
   const [removeCounts, setRemoveCounts] = useState({});
   const [email, setEmail] = useState(""); // Add this line
@@ -36,27 +41,39 @@ const Services = ({ service, Add, Remove }) => {
     return email !== "" && phone !== "";
   };
   const handleAdd = (serviceName) => {
-    Add(serviceName);
+    // Increase the count
     setAddCounts((prevCounts) => ({
       ...prevCounts,
       [serviceName]: (prevCounts[serviceName] || 0) + 1,
     }));
+    console.log("Updated fact", serviceName);
+    // Calculate the price
+    const service = ServicesData.find(
+      (service) => service.name === serviceName
+    );
+    if (service) {
+      console.log(service.price);
+      setTotalPrice((prevPrice) => prevPrice + parseFloat(service.price));
+    }
   };
-
   const handleRemove = (serviceName) => {
-    Remove(serviceName);
-    setAddCounts((prevCounts) => ({
-      ...prevCounts,
-      [serviceName]: Math.max((prevCounts[serviceName] || 0) - 1, 0),
-    }));
-  };
-  function Add(columnName) {
-    console.log("Updated fact", columnName);
-  }
-  function Remove(columnName) {
-    console.log("Removed Itemt", columnName);
-  }
+    // Decrease the count
+    setAddCounts((prevCounts) => {
+      if (prevCounts[serviceName] > 0) {
+        return { ...prevCounts, [serviceName]: prevCounts[serviceName] - 1 };
+      }
+      return prevCounts;
+    });
 
+    // Calculate the price
+    const service = ServicesData.find(
+      (service) => service.name === serviceName
+    );
+    if (service && removeCounts[serviceName] > 0) {
+      setTotalPrice((prevPrice) => prevPrice - service.price);
+      console.log(totalPrice);
+    }
+  };
   return (
     <>
       <span id="services"></span>
@@ -93,6 +110,14 @@ const Services = ({ service, Add, Remove }) => {
                     {service.description}
                   </p>
                 </div>
+                <div>
+                  <p className="text-center text-black-500 group-hover:text-white duration-high text-sm line-clamp-2 text-xl font-bold">
+                    💲 {service.price}
+                  </p>
+                </div>
+                <div className="p-4 text-center">
+                  <div className="w-full "></div>
+                </div>
                 <div className="flex justify-center gap-4 mt-10">
                   <button
                     onClick={() => handleAdd(service.name)}
@@ -113,6 +138,14 @@ const Services = ({ service, Add, Remove }) => {
               <form
                 onSubmit={(e) => {
                   e.preventDefault();
+                  setEmail("");
+                  setPhone("");
+                  Object.keys(addCounts).forEach((key) => {
+                    addCounts[key] = 0;
+                  });
+                  Object.keys(removeCounts).forEach((key) => {
+                    removeCounts[key] = 0;
+                  });
                 }}
                 className="form"
               >
@@ -155,6 +188,8 @@ const Services = ({ service, Add, Remove }) => {
                         message.push(`${serviceName}: ${count}`);
                       }
                     }
+                    console.log("Total Price", totalPrice);
+                    message.push(`Total Price: ${totalPrice}`);
                     if (message.length > 0) {
                       toast(
                         <div>
