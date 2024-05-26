@@ -43,12 +43,15 @@ const Services = ({ service, Add, Remove }) => {
   };
   const sendEmail = async () => {
     if (isFormValid) {
-      const response = await axios.post("http://localhost:3000/mail", {
-        email: email,
-        phone: phone,
-        addCounts,
-        totalPrice,
-      });
+      const response = await axios.post(
+        "http://backend-ochre-mu.vercel.app:3000/mail",
+        {
+          email: email,
+          phone: phone,
+          addCounts,
+          totalPrice,
+        }
+      );
       if (response.status === 200 && response.statusText === "OK") {
         toast.success(
           "Thanks for your message! We love to hear from people and will get back to you if needed.",
