@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import axios from "axios";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Img from "../../assets/biryani.png";
@@ -39,6 +40,26 @@ const Services = ({ service, Add, Remove }) => {
   const [phone, setPhone] = useState(""); // And this line
   const validateForm = () => {
     return email !== "" && phone !== "";
+  };
+  const sendEmail = async () => {
+    if (isFormValid) {
+      const response = await axios.post("http://localhost:3000/mail", {
+        email: email,
+        phone: phone,
+        addCounts,
+        totalPrice,
+      });
+      if (response.status === 200 && response.statusText === "OK") {
+        toast.success(
+          "Thanks for your message! We love to hear from people and will get back to you if needed.",
+          {
+            position: toast.POSITION.TOP_RIGHT,
+          }
+        );
+      } else {
+        toast.error("Enter a valid email address");
+      }
+    }
   };
   const handleAdd = (serviceName) => {
     // Increase the count
@@ -138,6 +159,7 @@ const Services = ({ service, Add, Remove }) => {
               <form
                 onSubmit={(e) => {
                   e.preventDefault();
+                  sendEmail();
                   setEmail("");
                   setPhone("");
                   Object.keys(addCounts).forEach((key) => {
