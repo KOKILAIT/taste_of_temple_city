@@ -7,6 +7,10 @@ app.use(express.json());
 app.use(cors());
 app.options("*", cors());
 
+app.get("/ping", (req, res) => {
+  res.send("pong");
+});
+
 app.post("/mail", async (req, res) => {
   console.log(req.body);
   const { email, phone, addCounts, totalPrice } = req.body;
