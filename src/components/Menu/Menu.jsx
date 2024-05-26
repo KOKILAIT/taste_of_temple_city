@@ -44,7 +44,7 @@ const Services = ({ service, Add, Remove }) => {
   const sendEmail = async () => {
     if (isFormValid) {
       const response = await axios.post(
-        "http://backend-ochre-mu.vercel.app:3000/mail",
+        "https://backend-ochre-mu.vercel.app:3000/mail",
         {
           email: email,
           phone: phone,
