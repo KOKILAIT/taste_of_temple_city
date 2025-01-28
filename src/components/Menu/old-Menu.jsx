@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import axios from "axios";
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
@@ -7,7 +7,6 @@ import Img2 from "../../assets/biryani2.png";
 import Img3 from "../../assets/biryani4.png";
 import StarRatings from "react-star-ratings";
 import "semantic-ui-css/semantic.min.css";
-
 const ServicesData = [
   {
     id: 1,
@@ -32,60 +31,51 @@ const ServicesData = [
     price: 12,
   },
 ];
-
-const getLocation = () => {
-  return new Promise((resolve, reject) => {
-    if (navigator.geolocation) {
-      navigator.geolocation.getCurrentPosition(
-        (position) => {
-          const { latitude, longitude } = position.coords;
-          resolve({ latitude, longitude });
-        },
-        (error) => {
-          reject(error);
-        }
-      );
-    } else {
-      reject(new Error("Geolocation is not supported by this browser."));
-    }
-  });
-};
-
-const Menu = () => {
-  const [searchQuery, setSearchQuery] = useState("");
+const Services = ({ service, Add, Remove }) => {
   const [isFormValid, setIsFormValid] = useState(false);
   const [servicePrices, setServicePrices] = useState({});
   const [totalPrice, setTotalPrice] = useState(0);
   const [addCounts, setAddCounts] = useState({});
   const [removeCounts, setRemoveCounts] = useState({});
-  const [email, setEmail] = useState("");
-  const [phone, setPhone] = useState("");
-  const [location, setLocation] = useState({ latitude: null, longitude: null });
-  const [time, setTime] = useState("");
-  useEffect(() => {
-    getLocation()
-      .then((coords) => {
-        console.log("Location:", coords);
-        setLocation(coords);
-      })
-      .catch((error) => {
-        console.error("Error getting location:", error);
-      });
-  }, []);
-
-  const handleSearchChange = (event) => {
-    setSearchQuery(event.target.value);
-  };
-
-  const filteredServices = ServicesData.filter((service) =>
-    service.name.toLowerCase().includes(searchQuery.toLowerCase())
-  );
-
+  const [email, setEmail] = useState(""); // Add this line
+  const [phone, setPhone] = useState(""); // And this line
   const validateForm = () => {
     return email !== "" && phone !== "";
   };
-  const handleTimeChange = (event) => {
-    setTime(event.target.value);
+
+  const handleOrders = async () => {
+    const orderDetails = Object.entries(addCounts).map(
+      ([serviceName, count]) => {
+        const service = ServicesData.find(
+          (service) => service.name === serviceName
+        );
+        return {
+          name: serviceName,
+          quantity: count,
+          price: service.price * count,
+        };
+      }
+    );
+
+    try {
+      const response = await axios.post(
+        "http://localhost:8081/orders",
+        orderDetails
+      );
+      if (response.status === 200) {
+        toast.success("Order placed successfully!", {
+          position: toast.POSITION.TOP_RIGHT,
+        });
+      } else {
+        toast.error("Failed to place order. Please try again.", {
+          position: toast.POSITION.TOP_RIGHT,
+        });
+      }
+    } catch (error) {
+      toast.error("An error occurred while placing the order.", {
+        position: toast.POSITION.TOP_RIGHT,
+      });
+    }
   };
   const sendEmail = async () => {
     if (isFormValid) {
@@ -110,7 +100,17 @@ const Menu = () => {
       }
     }
   };
+  const Menu = () => {
+    const [searchQuery, setSearchQuery] = useState("");
 
+    const handleSearchChange = (event) => {
+      setSearchQuery(event.target.value);
+    };
+
+    const filteredServices = ServicesData.filter((service) =>
+      service.name.toLowerCase().includes(searchQuery.toLowerCase())
+    );
+  };
   const handleAdd = (serviceName) => {
     // Increase the count
     setAddCounts((prevCounts) => ({
@@ -125,48 +125,6 @@ const Menu = () => {
     if (service) {
       console.log(service.price);
       setTotalPrice((prevPrice) => prevPrice + parseFloat(service.price));
-    }
-  };
-  const handleOrders = async () => {
-    const orderDetails = Object.entries(addCounts).map(
-      ([serviceName, count]) => {
-        const service = ServicesData.find(
-          (service) => service.name === serviceName
-        );
-        return {
-          product: serviceName,
-          price: service.price,
-          quantity: count,
-        };
-      }
-    );
-
-    const orderWithLocation = {
-      items: orderDetails,
-      latitude: location.latitude,
-      longitude: location.longitude,
-      eta: time,
-    };
-
-    try {
-      console.log("Order Details", orderWithLocation);
-      const response = await axios.post(
-        "http://localhost:8081/orders",
-        orderWithLocation
-      );
-      if (response.status === 200) {
-        toast.success("Order placed successfully!", {
-          position: toast.POSITION.TOP_RIGHT,
-        });
-      } else {
-        toast.error("Failed to place order. Please try again.", {
-          position: toast.POSITION.TOP_RIGHT,
-        });
-      }
-    } catch (error) {
-      toast.error("An error occurred while placing the order.", {
-        position: toast.POSITION.TOP_RIGHT,
-      });
     }
   };
   const handleRemove = (serviceName) => {
@@ -187,7 +145,6 @@ const Menu = () => {
       console.log(totalPrice);
     }
   };
-
   return (
     <>
       <span id="services"></span>
@@ -226,7 +183,7 @@ const Menu = () => {
                     src={service.img}
                     alt=""
                     className="max-w-[200px] block mx-auto transform -translate-y-14
-                  group-hover:scale-105 group-hover:rotate-6 duration-300"
+        group-hover:scale-105 group-hover:rotate-6 duration-300"
                   />
                 </div>
                 <div className="p-4 text-center">
@@ -260,6 +217,53 @@ const Menu = () => {
                 </div>
               </div>
             ))}
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-14 md:gap-5 place-items-center">
+            {ServicesData.map((service) => (
+              <div
+                data-aos="zoom-in"
+                data-aos-duration="300"
+                className="rounded-2xl bg-white dark:bg-gray-800 hover:bg-primary dark:hover:bg-primary hover:text-white relative shadow-xl duration-high group max-w-[300px]"
+              >
+                <div className="h-[100px]">
+                  <img
+                    src={service.img}
+                    alt=""
+                    className="max-w-[200px] block mx-auto transform -translate-y-14
+                  group-hover:scale-105 group-hover:rotate-6 duration-300"
+                  />
+                </div>
+                <div className="p-4 text-center">
+                  <div className="w-full "></div>
+                  <h1 className="text-xl font-bold">{service.name}</h1>
+                  <p className="text-gray-500 group-hover:text-white duration-high text-sm line-clamp-2">
+                    {service.description}
+                  </p>
+                </div>
+                <div>
+                  <p className="text-center text-black-500 group-hover:text-white duration-high text-sm line-clamp-2 text-xl font-bold">
+                    💲 {service.price}
+                  </p>
+                </div>
+                <div className="p-4 text-center">
+                  <div className="w-full "></div>
+                </div>
+                <div className="flex justify-center gap-4 mt-10">
+                  <button
+                    onClick={() => handleAdd(service.name)}
+                    className="bg-gradient-to-r from-primary to-secondary text-white py-2 px-4 rounded-full shadow-xl hover:shadow-md mr-2" // added margin-right
+                  >
+                    ➕{addCounts[service.name] || 0}
+                  </button>
+                  <button
+                    onClick={() => handleRemove(service.name)}
+                    className="bg-gradient-to-r from-primary to-secondary text-white py-2 px-4 rounded-full shadow-xl hover:shadow-md ml-2" // added margin-left
+                  >
+                    ➖{removeCounts[service.name] || 0}
+                  </button>
+                </div>
+              </div>
+            ))}
             <>
               <form
                 onSubmit={(e) => {
@@ -268,7 +272,6 @@ const Menu = () => {
                   handleOrders();
                   setEmail("");
                   setPhone("");
-                  setTime("");
                   Object.keys(addCounts).forEach((key) => {
                     addCounts[key] = 0;
                   });
@@ -296,12 +299,7 @@ const Menu = () => {
                     setIsFormValid(validateForm());
                   }}
                 />
-                <input
-                  type="time"
-                  value={time}
-                  onChange={handleTimeChange}
-                  className="time-picker"
-                />
+
                 <button
                   onClick={() => {
                     if (!isFormValid) {
@@ -356,4 +354,4 @@ const Menu = () => {
   );
 };
 
-export default Menu;
+export default Services;

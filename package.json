@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "10_project_biryani-shop": "file:",
     "aos": "^2.3.4",
     "axios": "^1.6.8",
     "cors": "^2.8.5",
@@ -23,6 +24,7 @@
     "react-slick": "^0.29.0",
     "react-star-ratings": "^2.3.0",
     "react-toastify": "^10.0.5",
+    "semantic-ui-css": "^2.5.0",
     "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
